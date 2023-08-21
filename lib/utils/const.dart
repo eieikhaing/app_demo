@@ -1,0 +1,16 @@
+const appName = "APP Demo";
+const userInfo = "userInfo";
+const defaultId = 0;
+const debugUrl = "https://a10d-dev-api.xan.com.mm/api/v1/";
+var baseUrl = "https://a10d-api.xan.com.mm/api/v1/";
+const basicChannel = "basic_channel";
+const firebaseChannel = "Firebase Push Notification";
+const firebaseChannelDesc = "This is the basic channel";
+const firebaseMessageDefault = "Default";
+const firebaseMessageBigPict = "BigPicture";
+const defaultGroupKey = "default_group";
+const String cToken = "token";
+const String cRefreshToken = "refreshToken";
+const int cSplashDuration = 5000;
+const int cTimerTenSeconds = 10;
+const int cAnimationDuration = 1200;
